@@ -1,1 +1,2 @@
-# mystuff
+# FFmpeg video merging script
+
